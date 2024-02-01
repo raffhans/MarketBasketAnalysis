@@ -9,7 +9,7 @@ MBA for Electronic Store Sales Dataset.
 
 1) First we visual both profit and sales of the dataset
 2) We have seen that the profit and sales are high during the festive month of United State which the most celebrated one; Christmas
-3) However, if we compared both of these graph (sales and profit) we have seen that the sales are high at a specific month but the profit are low. 
+3) However, if we compared both of these graph (sales and profit) we have seen that the sales are higher at a specific month but the profit are low. 
 4) For instance, in year 2016, March and October recorded an increase and decrease in sales respectively. However, the profit states the opposite where the store experienced decrease and increase in profit during those respectively. 
 5) In order for us to convince that this statement is true, we visual the data by finding the correlation between sales and profit
 6) we can observed from the plot that even though the sales are high but the profit is low.
